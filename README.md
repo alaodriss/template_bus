@@ -14,4 +14,8 @@ add stuff
 
 and more stuff
 
-Staging1 stuff 
+<<<<<<< HEAD
+Staging1 stuff 1
+=======
+Staging1 stuff 1
+>>>>>>> 5e6aa809ecb2a9729acf3703a23b00869159a71d
